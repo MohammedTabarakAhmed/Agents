@@ -11,3 +11,4 @@ faiss-cpu
 wikipedia
 arxiv
 python-dotenv
+pageindex
