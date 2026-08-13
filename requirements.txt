@@ -6,4 +6,8 @@ langchain-core
 langchain-community
 langchain-chroma
 langchain-huggingface
+langgraph-cli[inmem]
 faiss-cpu
+wikipedia
+arxiv
+python-dotenv
