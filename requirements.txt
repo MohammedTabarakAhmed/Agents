@@ -7,8 +7,10 @@ langchain-community
 langchain-chroma
 langchain-huggingface
 langgraph-cli[inmem]
+langchain-litellm
 faiss-cpu
 wikipedia
 arxiv
 python-dotenv
 pageindex
+litellm
