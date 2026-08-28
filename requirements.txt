@@ -11,6 +11,9 @@ langchain-litellm
 faiss-cpu
 wikipedia
 arxiv
+tavily
 python-dotenv
 pageindex
 litellm
+deepagents
+langchain-quickjs
